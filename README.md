@@ -1,4 +1,4 @@
-Hello! My name's Abdellah 👋
+**Hello! My name's Abdellah** 👋
 
 I'm a front-end developer based in Morocco. I love breaking down large problems into easily solvable chunks. 
 
