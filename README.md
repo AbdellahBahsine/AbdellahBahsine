@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate frontend developer with a solid f
   - Currently learning NodeJS (ExpressJS) and MongoDB
 
 - **Education**:
-  - Student at [1337 Coding School](https://www.1337.ma)
+  - Student at [1337 Coding School](https://1337.ma/en/)
 
 ### 🔭 Current Learning Goals
 
