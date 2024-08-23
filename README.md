@@ -38,10 +38,10 @@ Here are some of my projects that showcase my skills:
 - **[Ft_transcendance](https://www.pingerwar.me/)**  
   A dynamic web application where you can play Pong with friends, engage in real-time chat, and organize tournaments. This project combines real-time interaction with gaming fun, utilizing technologies such as ReactJS, ContextAPI, Django, and PostgreSQL.
 
-- **[Inception](https://github.com/yourusername/project2)**  
+- **[Inception](https://github.com/AbdellahBahsine/inception)**  
   A comprehensive project focused on containerization using Docker. It demonstrates the creation and management of containerized applications.
 
-- **[Web Server](https://github.com/yourusername/project3)**  
+- **[Web Server](https://github.com/AbdellahBahsine/webserver)**  
   A minimalist web server project showcasing fundamental concepts of server-side programming. It includes features such as request handling and basic server responses. Ideal for learning about HTTP protocols.
 
 Feel free to explore my repositories, and don’t hesitate to reach out if you have any questions or opportunities!
