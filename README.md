@@ -1,7 +1,7 @@
 # Hello, I'm Abdellah Bahsine 👋
-## Frontend Developer | Student at 1337 Coding School
+## Full stack Developer | Student at 1337 Coding School
 
-Welcome to my GitHub profile! I'm a passionate frontend developer with a solid foundation in both frontend and backend technologies. Currently, I'm expanding my skills and looking for exciting opportunities in frontend or full stack development.
+Welcome to my GitHub profile! I'm a passionate full stack developer with a solid foundation in both frontend and backend technologies. Currently, I'm expanding my skills and looking for exciting opportunities in frontend or full stack development.
 
 ### 🚀 About Me
 
