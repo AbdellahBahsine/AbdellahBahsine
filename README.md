@@ -1,6 +1,6 @@
 # Hello, I'm Abdellah Bahsine 👋
 
-Welcome to my GitHub profile! I'm a passionate full stack developer with a solid foundation in both frontend and backend technologies. Currently, I'm expanding my skills and looking for exciting opportunities in frontend or full stack development.
+I'm a passionate full stack developer with a solid foundation in both frontend and backend technologies. Currently, I'm expanding my skills and looking for exciting opportunities in frontend or full stack development.
 
 ### 🚀 About Me
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a solid
 
 - **Backend Skills**:
   - Django (Python)
-  - Currently learning NodeJS (ExpressJS) and MongoDB
+  - NodeJS (ExpressJS) and MongoDB
 
 - **Education**:
   - Student at [1337 Coding School](https://1337.ma/en/)
