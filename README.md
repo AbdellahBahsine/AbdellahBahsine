@@ -14,6 +14,7 @@ Web Developer passionate about creating scalable, responsive, and well-crafted w
 I love building web applications that are scalable, responsive, and deliver great user experiences.
 
 ## 📫 Get In Touch
+- **Portfolio:** [abdellahcodes.me](https://www.abdellahcodes.me/)
 - **LinkedIn:** [abdellah-bahsine](https://www.linkedin.com/in/abdellah-bahsine/)
 - **Email:** abdellah.bahsine.job@gmail.com
 
